@@ -30,3 +30,13 @@ Use common HTML tags like h1, p, a, img, and ul or ol.
 Structure a webpage with semantic tags such as header, footer, nav, section, and article.
 Ensure the content is well-organized for readability and SEO.
 
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My First Web Page</title>
+</head>
+<body>
+    <h1>Welcome to My Website</h1>
+    <p>This is a basic HTML web page. I'm learning web development!</p>
+</body>
+</html>
